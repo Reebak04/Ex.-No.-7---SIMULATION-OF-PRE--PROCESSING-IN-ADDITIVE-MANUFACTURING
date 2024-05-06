@@ -44,9 +44,10 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![image](https://github.com/Reebak04/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118364993/f908051b-c045-4f0c-a9ae-040987c3b133)
 
-### Name:
-### Register Number:
+### Name: TEJUSVE KABEER F
+### Register Number: 212222100054
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
